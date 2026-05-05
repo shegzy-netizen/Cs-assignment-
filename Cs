@@ -1,0 +1,9 @@
+#include<stdio.h>
+main()
+{
+int y z!
+z = 0
+y++ !
+z = z + 1
+z = z + y !
+printf ( "%d", z)
